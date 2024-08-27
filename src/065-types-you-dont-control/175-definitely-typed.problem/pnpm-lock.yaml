@@ -9,7 +9,16 @@ dependencies:
     specifier: ^5.1.0
     version: 5.1.0
 
+devDependencies:
+  '@types/diff':
+    specifier: ^5.2.1
+    version: 5.2.1
+
 packages:
+
+  /@types/diff@5.2.1:
+    resolution: {integrity: sha512-uxpcuwWJGhe2AR1g8hD9F5OYGCqjqWnBUQFD8gMZsDbv8oPHzxJF6iMO6n8Tk0AdzlxoaaoQhOYlIg/PukVU8g==}
+    dev: true
 
   /diff@5.1.0:
     resolution: {integrity: sha512-D+mk+qE8VC/PAUrlAU34N+VfXev0ghe5ywmpqrawphmVZc1bEfn56uo9qpyGp1p4xpzOHkSW4ztBd6L7Xx4ACw==}

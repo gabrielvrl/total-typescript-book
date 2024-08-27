@@ -9,9 +9,7 @@
     "skipLibCheck": true,
     "isolatedModules": true,
     "lib": [
-      "ES2022",
-      "DOM",
-      "DOM.Iterable"
-    ]
-  },
+      "ES2022"
+    ],
+  }
 }
